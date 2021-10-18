@@ -62,6 +62,7 @@ Asena.addCommand({pattern: 'rmlydia$', fromMe: true, desc: Lang.RMLYDIA_DESC}, (
 
 */
 
+/*
  const Rashi = require('../events');
 
  const { MessageType, Mimetype } = require('@adiwajshing/baileys');
@@ -141,6 +142,7 @@ let id = match[1];
 });
 
 }));
+*/
 
 /*
 
