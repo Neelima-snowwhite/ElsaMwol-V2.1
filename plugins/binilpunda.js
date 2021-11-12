@@ -4,12 +4,12 @@ you may not use this file except in compliance with the License.
 
 */
 
-const Rashi = require('../events');
+const Jihad = require('../events');
 const { MessageType, GroupSettingChange, Mimetype, MessageOptions } = require('@adiwajshing/baileys');
 const fs = require('fs');
 const config = require('../config')
 const Config = require('../config')
-const zara = require('../zara')
+const elsa = require('../elsa')
 const axios = require('axios')
 const request = require('request');
 const os = require('os');
